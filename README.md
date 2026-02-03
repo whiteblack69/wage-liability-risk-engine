@@ -115,19 +115,9 @@ wage-liability-app/
 └── README.md             # This file
 ```
 
-## 🎤 Portfolio Talking Points
 
-> "I built a wage liability risk engine that calculates termination exposure across 10 countries in real-time. It uses country-specific labor law formulas for severance, notice periods, and statutory bonuses, with FX exposure tracking and concentration risk alerts."
 
-**Key differentiators:**
-- Deep EOR/international employment domain expertise
-- Financial modeling, not just HR data display
-- Production-quality visualization with Plotly
-
-## 📝 License
-
-MIT License - feel free to use and modify.
 
 ---
 
-Built by [Your Name] | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+Built by [Malik Ali] | [LinkedIn](https://linkedin.com/in/yourprofile) |
